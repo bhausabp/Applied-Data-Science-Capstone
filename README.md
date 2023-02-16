@@ -136,4 +136,4 @@ In this notebook we perform the following:
 - There are certain orbits like SSO, HEO, GEO, and ES-L1 where launches were the most successful.
 - Success rate can be linked to payload mass as the lighter payloads generally proved to be more successful than the heavier payloads. 
 - The launch sites are strategically located near highways and railways for transportationof personel and cargo, but also far away from cities for safety.
-- The best predictive model to use for this dataset is the Decision Tree Classifier as it had the highest accuracy with 94%.
+- The best predictive model to use for this dataset is the Decision Tree Classifier as it had the highest accuracy with 94%..
